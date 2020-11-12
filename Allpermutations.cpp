@@ -1,3 +1,13 @@
+/*
+	inptu : ABC
+	output:	ABC
+			ACB
+			BAC	
+			BCA
+			CBA
+			CAB
+*/
+
 #include<bits/stdc++.h>
 #define fast  ios::sync_with_stdio(false); cin.tie(0); cout.tie(0)
 typedef long long int ll;
