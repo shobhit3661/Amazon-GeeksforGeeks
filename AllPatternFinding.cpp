@@ -21,7 +21,7 @@ using namespace std;
 
 void lps(int lp[],string s)
 {
-	int size = s.length();
+	int size =  s.length();
 	lp[0] = 0;
 	int i = 1;
  	int len = 0;
